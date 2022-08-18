@@ -1,0 +1,1 @@
+# Some StaticAssets For Specific Purposes
